@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app/second_screen_widget.dart';
 
-class MyApp extends StatelessWidget {
+class FirstScreenWidget extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
